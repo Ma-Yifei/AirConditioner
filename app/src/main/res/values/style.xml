@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.DefaultTextView" parent="android:style/Widget.TextView">
+        <item name="fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>
